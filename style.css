@@ -1,0 +1,65 @@
+#mainimage {
+	background-image: url(images/landscape.jpg);
+  	background-position: 0% 25%;
+  	background-size: cover;
+  	background-repeat: no-repeat;
+  	color: white;
+  	padding-bottom: 700px;
+}
+
+#containerimage {
+	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%,-50%);
+}
+
+#hr4image {
+	border: none;
+	height: 1px;
+	background-color:white;
+}
+
+.btn-space1 {
+	margin-right: 10px;
+	opacity: 0.5;
+}
+
+.btn-space2 {
+	margin-left: 10px;
+	opacity: 0.5;
+}
+
+#features {
+	padding: 30px;
+}
+
+#free1 {
+	background-color: rgb(141,205,191);
+}
+
+#free2 {
+	background-color: rgb(151,216,202);
+}
+
+#standard1 {
+	background-color: rgb(105,196,221);
+}
+
+#standard2 {
+	background-color: rgb(118,205,230);
+}
+
+#premium1 {
+	background-color: rgb(211,93,110);
+}
+
+#premium2 {
+	background-color: rgb(219,107,123);
+}
+
+#footer {
+	margin-bottom:0;
+	height: 300px;
+	padding-top: 80px;
+}
